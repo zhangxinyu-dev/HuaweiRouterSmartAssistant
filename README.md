@@ -4,6 +4,8 @@
 
 ## 项目截图
 <img width="729" height="803" alt="image" src="https://github.com/user-attachments/assets/4e9bddb2-a215-42d0-9700-c4d6b4e9ad15" />
+<img width="1886" height="881" alt="image" src="https://github.com/user-attachments/assets/b47dc0d0-1f3b-48d0-972e-6bfb73515180" />
+
 
 ## 技术架构
 - **大语言模型**：通义千问 qwen-max
